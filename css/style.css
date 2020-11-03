@@ -1,0 +1,21 @@
+.swiper-button-prev,
+.swiper-button-next {
+  color: #fff;
+}
+
+.swiper-slide {
+  height: 90vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.swiper-slide.slide1 {
+  background-image: url(../img/img1.jpg);
+}
+.swiper-slide.slide2 {
+  background-image: url(../img/img2.webp);
+}
+.swiper-slide.slide3 {
+  background-image: url(../img/img3.webp);
+}
